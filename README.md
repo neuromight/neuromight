@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neuromight
+- 👋 Hi, I’m Jouke van Lieshout
 - 👀 I’m interested in programming
 - 🐍 I’m currently learning python
 
